@@ -1,0 +1,10 @@
+{
+  "name": "kugoumusicapi-fork-build",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Pinned tooling for the Songloft fork releases; not an application dependency",
+  "dependencies": {
+    "@yao-pkg/pkg": "6.23.0",
+    "pnpm": "10.34.7"
+  }
+}
